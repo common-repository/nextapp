@@ -1,0 +1,4 @@
+p {color:#333;} 
+a {color:#3E62A6;} 
+img {max-width:310px;} 
+img.alignleft {float:left;max-width:120px;margin:0 10px 5px 0;border:1px solid #ccc;background:#fff;padding:2px;}
